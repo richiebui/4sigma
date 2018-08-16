@@ -1,6 +1,6 @@
 ## ignore the jupyter notebook backup file
 .ipynb_checkpoints
-
+.DS_Store
 
 # ignores all .rds in subdirectories recursive from the current 
 # folder (does not include the current folder)
